@@ -20,9 +20,8 @@ Password updates automatically when options change.
 
 # Tech Stack
 
-# React – Front-end library for UI development
-
-# Tailwind CSS – Utility-first CSS framework
+React – Front-end library for UI development
+Tailwind CSS – Utility-first CSS framework
 
 # Installation
 # Clone the repository
